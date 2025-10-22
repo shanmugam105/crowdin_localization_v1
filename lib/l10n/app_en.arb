@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "pushedButtonCount": "You have pushed the button this many times:",
+  "@pushedButtonCount": {
+    "description": "Label shown above the counter indicating how many times the button has been pressed."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "@@locale": "fr",
+  "pushedButtonMessage": "Vous avez appuyé sur le bouton ce nombre de fois :",
+  "@pushedButtonMessage": {
+    "description": "Texte affiché indiquant combien de fois l'utilisateur a appuyé sur le bouton."
+  }
+}

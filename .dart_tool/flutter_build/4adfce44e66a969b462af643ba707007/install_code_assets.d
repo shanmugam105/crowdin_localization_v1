@@ -1,0 +1,1 @@
+ /Users/sparkout/Documents/Flutter/crowdin_localization_v1/.dart_tool/flutter_build/4adfce44e66a969b462af643ba707007/native_assets.json: 

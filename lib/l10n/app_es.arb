@@ -1,0 +1,7 @@
+{
+  "@@locale": "es",
+  "pushedButtonCount": "Has presionado el botón esta cantidad de veces:",
+  "@pushedButtonCount": {
+    "description": "Etiqueta que se muestra encima del contador que indica cuántas veces se ha presionado el botón."
+  }
+}
