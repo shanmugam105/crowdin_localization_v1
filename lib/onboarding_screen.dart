@@ -33,7 +33,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     super.dispose();
   }
 
-  //HEllo
   @override
   Widget build(BuildContext context) {
     bool showFinalImage = (_page > 3 && _page < 4);
